@@ -19,7 +19,7 @@ const projects = [
         skills: "HTML, CSS, JavaScript",
         img: project01,
         imgBig: project01Big,
-        gitHubLink: "'https://github.com/AluaZh/ToDo-list.git'",
+        gitHubLink: "https://github.com/AluaZh/ToDo-list.git",
     },
     {
         title: "Horoscope App",
@@ -47,7 +47,7 @@ const projects = [
         skills: "HTML, CSS, JavaScript, React",
         img: project05,
         imgBig: project05Big,
-        gitHubLink: "#",
+        gitHubLink: "https://github.com/AluaZh/Portfolio-React.git",
     },
 ]
 
